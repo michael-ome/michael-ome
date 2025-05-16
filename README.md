@@ -1,6 +1,7 @@
 # Hi there!👋 I'm Michael Omelazu.
 ## ✨You are welcome to my Github Profile.✨
 
+PS: I'm still doing some housekeeping here . . . 🧹
 <!--
 **michael-ome/michael-ome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
