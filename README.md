@@ -1,4 +1,5 @@
-## Hi there! I am Michael Omelazu and you are welcome to my Github Profile. 👋
+# Hi there!👋 I'm Michael Omelazu.
+## ✨You are welcome to my Github Profile.✨
 
 <!--
 **michael-ome/michael-ome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔗 [linkedIn](www.linkedin.com/in/michael-omelazu)
+- 👨🏾‍💻 [Tableau Public](https://public.tableau.com/app/profile/michael.omelazu)
