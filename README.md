@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 🌱 I’m currently learning to clean data extensively with SQL, as an alternative to Excel.
-- ⚡ Fun fact: I maintain a personal faith-based blog [here.](https://michaelgospelblog.wordpress.com/)
+- ⚡ Cool fact: I maintain a personal faith-based blog [here.](https://michaelgospelblog.wordpress.com/)
 - 🔗 [linkedIn](www.linkedin.com/in/michael-omelazu)
 - 👨🏾‍💻 [Tableau Public](https://public.tableau.com/app/profile/michael.omelazu)
